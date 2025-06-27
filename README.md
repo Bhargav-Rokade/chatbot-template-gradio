@@ -38,6 +38,7 @@ pip install -r requirements.txt
 
 python main.py
 
+This is how it looks like:![image](https://github.com/user-attachments/assets/505e9f5d-5574-47fe-a6ba-0f7f6d36cb8b)
 
 
 ### License
