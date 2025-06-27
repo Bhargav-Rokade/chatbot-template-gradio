@@ -1,6 +1,6 @@
 # Local AI Assistant
 
-A lightweight, single-file Python chatbot frontend template using Gradio for frontend.
+A lightweight, single-file Python chatbot FRONTEND TEMPLATE using Gradio for frontend.
 
 ### Features
 - GPT-style chat interface (local, no Flask needed)
@@ -10,5 +10,23 @@ A lightweight, single-file Python chatbot frontend template using Gradio for fro
 - Pure Python + Gradio = quick setup
 
 ### Getting Started
-1. Clone this repo
-2. Add your API keys and proceed.
+
+1) Setup ur project structure like this:
+
+chatbot-template-gradio/
+├── main.py                  # Single-file chatbot with UI + logic
+├── pdf_reader.py            # PDF text extraction utility
+├── API_Credentials.env      
+├── requirements.txt
+├── saved_chats/             # Auto-created for saved conversations
+└── README.md                
+
+2) Install requirements:
+pip install -r requirements.txt
+
+3) Setup ur API keys and stuff
+
+4) Run it
+   python main.py
+
+python main.py
