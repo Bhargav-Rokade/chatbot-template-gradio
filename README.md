@@ -14,12 +14,19 @@ A lightweight, single-file Python chatbot FRONTEND TEMPLATE using Gradio for fro
 1) Setup ur project structure like this:
 
 chatbot-template-gradio/
+
 ├── main.py                  # Single-file chatbot with UI + logic
+
 ├── pdf_reader.py            # PDF text extraction utility
+
 ├── API_Credentials.env      
+
 ├── requirements.txt
+
 ├── saved_chats/             # Auto-created for saved conversations
+
 └── README.md                
+
 
 2) Install requirements:
 pip install -r requirements.txt
