@@ -37,3 +37,10 @@ pip install -r requirements.txt
    python main.py
 
 python main.py
+
+
+
+### License
+
+This project is licensed under the MIT License.  
+Developed by **Bhargav Rokade**, with debugging guidance from ChatGPT :D
