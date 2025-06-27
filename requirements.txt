@@ -1,0 +1,8 @@
+os
+json
+shutil
+gradio
+python-dotenv
+openai      #subjective
+pdfplumber
+
